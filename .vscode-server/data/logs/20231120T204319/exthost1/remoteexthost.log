@@ -1,0 +1,17 @@
+2023-11-20 20:43:21.576 [info] Extension host with pid 1485 started
+2023-11-20 20:43:21.619 [info] Lock '/home/dcubidesm/.vscode-server/data/User/workspaceStorage/0d7cef9b699634b4c49494d6df034c93/vscode.lock': Lock acquired.
+2023-11-20 20:43:21.665 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-20 20:43:21.718 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-20 20:43:21.808 [info] Eager extensions activated
+2023-11-20 20:43:21.809 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 20:43:21.809 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 20:43:26.823 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-20 20:43:28.175 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-20 20:43:28.176 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-20 20:47:34.097 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 20:47:38.475 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-20 21:22:34.225 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-20 21:22:34.226 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-20 22:49:30.896 [info] Extension host terminating: received terminate message from renderer
+2023-11-20 22:49:30.909 [info] Lock '/home/dcubidesm/.vscode-server/data/User/workspaceStorage/0d7cef9b699634b4c49494d6df034c93/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-20 22:49:31.248 [info] Extension host with pid 1485 exiting with code 0

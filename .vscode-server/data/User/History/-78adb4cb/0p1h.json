@@ -1,0 +1,18 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\Diana Marin\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\Diana Marin\\downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\Diana Marin\\Oracle\\network\\admin",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\Diana Marin\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true
+}
